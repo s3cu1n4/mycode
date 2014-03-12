@@ -1,0 +1,3 @@
+file_obj = open('temp/tcl.txt','r')
+s= file_obj.read()
+print s

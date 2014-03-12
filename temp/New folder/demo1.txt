@@ -1,0 +1,4 @@
+file_obj = open('temp/test2.txt','r')
+s=file_obj.read()
+s=str.decode('s')
+print s

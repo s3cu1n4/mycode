@@ -1,0 +1,2 @@
+file = file_obj.read  ('temp\email.txt','r')
+print file

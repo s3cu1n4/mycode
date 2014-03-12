@@ -1,0 +1,8 @@
+i=0
+
+while i<883:
+    print i
+    open('temp/883.txt').write(i)
+    i=i+1    
+else:
+    print end

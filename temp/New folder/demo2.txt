@@ -1,0 +1,6 @@
+PythonWin 2.7.6 (default, Nov 10 2013, 19:24:24) [MSC v.1500 64 bit (AMD64)] on win32.
+Portions Copyright 1994-2008 Mark Hammond - see 'Help/About PythonWin' for further copyright information.
+>>> 
+>>> 
+>>> 
+>>> print "hello world!"hello world!
